@@ -27,7 +27,7 @@ $ jupyter notebook
 ```
 
 と実行します。  
-Jupyter Notebookのデフォルトのポートは8888となっていますので，任意のブラウザを起動して，URL欄に"http://localhost:8888"と入力すると，ブラウザで実行できるようになります。
+Jupyter Notebookのデフォルトのポートは8888となっていますので，任意のブラウザを起動して，URL欄に "http://localhost:8888" と入力すると，ブラウザで実行できるようになります。
 
 ## Jupyter Notebookの基本的な使い方
 
