@@ -10,7 +10,7 @@ WSLの導入方法については，[こちら](WSL-install.md)を参照して�
 Pythonの導入方法は色々あるのですが，今回私がおすすめするPythonの導入方法は，Minicondaを使用した方法です。  
 ここでは，WSLも含め，LinuxあるいはMacの環境下にある前提で進めていきます。
 
-まず，任意のディレクトリ（ここでは~/Downloads）にMinicondaのスクリプトファイルをダウンロードする。
+まず，任意のディレクトリ（ここでは$HOME/Downloads）にMinicondaのスクリプトファイルをダウンロードする。
 
 ```
 $ mkdir ~/Downloads ←　ディレクトリ未作成の場合
@@ -46,7 +46,7 @@ Miniconda3 will now be installed into this location:
 
 最後にパスを追加するか聞かれます。  
 yesを選択しても構いません。  
-しかし，~/Miniconda3/binにパスを通してしまったが為にPython以外の場面で不具合が生じる可能性がありますので，この場面ではnoを選択し，インストール終了後に~/.bash_aliasesを作成して，
+しかし，$HOME/Miniconda3/binにパスを通してしまったが為にPython以外の場面で不具合が生じる可能性がありますので，この場面ではnoを選択し，インストール終了後に$HOME/.bash_aliasesを作成して，
 
 ```
 alias python=$HOME/Miniconda3/bin/python3
@@ -54,7 +54,7 @@ alias conda=$HOME/Miniconda3/bin/conda
 alias jupyter=$HOME/Miniconda3/bin/jupyter
 ```
 
-と記述して，~/.bash_profileや~/.bashrcと同様に
+と記述して，$HOME/.bash_profileや$HOME/.bashrcと同様に
 
 ```
 $ source ~/.bash_aliases
