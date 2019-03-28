@@ -99,3 +99,5 @@ basemap-data-hiresはその1つです。
 まとめると，不足しているライブラリがある場合は，"conda パッケージ名"で検索し，  
 "To install this package with conda run one of the following:"  
 の部分に記述されているコードを実行です。
+
+[ホームへ戻る](https://yellowmeteor.github.io/met_python.github.io/)
