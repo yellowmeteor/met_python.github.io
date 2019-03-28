@@ -35,7 +35,7 @@ Jupyter Notebookの基本的な使い方は，BlogCatさんのこちらのペー
 
 [Jupyter Notebook の使い方](https://python.atelierkobato.com/jupyter-basic/)
 
-私はオートセーブ機能まで変更していないのですが，基本的な使い方は簡単にまとまっています。  
+私はオートセーブ機能まで変更していないのですが，基本的な使い方が簡単にまとまっています。  
 Filesの画面で右上隅からNew▼をクリックし，Python 3を選択すると，Filesで表示されているディレクトリに，Untitled.ipynbというJupyter用のファイルが作成されます。  
 希望のディレクトリ下でipynbのファイルを作成したい場合には，Filesの画面でディレクトリを選択し，希望のディレクトリに移動してから，New▼をクリックし，Python 3を選択してください。
 
