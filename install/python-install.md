@@ -10,7 +10,8 @@ WSLの導入方法については，[こちら](WSL-install.md)を参照して�
 Pythonの導入方法は色々あるのですが，今回私がおすすめするPythonの導入方法は，Minicondaを使用した方法です。  
 ここでは，WSLも含め，LinuxあるいはMacの環境下にある前提で進めていきます。
 
-まず，任意のディレクトリ（ここでは$HOME/Downloads）にMinicondaのスクリプトファイルをダウンロードする。
+まず，任意のディレクトリ（ここでは$HOME/Downloads）にMinicondaのスクリプトファイルをダウンロードする。  
+※$HOMEはホームディレクトリ
 
 ```
 $ mkdir ~/Downloads ←　ディレクトリ未作成の場合
