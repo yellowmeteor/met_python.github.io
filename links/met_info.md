@@ -32,3 +32,5 @@ HBC北海道放送が提供する専門天気図です。
 - [高知大学気象情報頁](http://weather.is.kochi-u.ac.jp/)  
 衛星画像をみることができます。  
 現在のものだけでなく，過去5年ほどの衛星画像がアーカイブされています。
+
+[ホームへ戻る](https://yellowmeteor.github.io/met_python.github.io/)
