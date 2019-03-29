@@ -1,4 +1,4 @@
-# おすすめリンク集
+# データ解析リンク集
 
  - [KyotoGeoPython](https://kyoto-geopython.github.io/Kyoto-GeoPython/)  
  Pythonの基礎だけでなく，Numpy，matplotlib，Pandasなどのライブラリを用いたデータ解析や描画の方法や，Fortran・C言語との連携まで，わかりやすく記述されています。  
