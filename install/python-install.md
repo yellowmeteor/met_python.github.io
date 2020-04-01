@@ -47,12 +47,12 @@ Miniconda3 will now be installed into this location:
 
 最後にパスを追加するか聞かれます。  
 yesを選択しても構いません。  
-しかし，$HOME/Miniconda3/binにパスを通してしまったが為にPython以外の場面で不具合が生じる可能性がありますので，この場面ではnoを選択し，インストール終了後に$HOME/.bash_aliasesを作成して，
+しかし，$HOME/miniconda3/binにパスを通してしまったが為にPython以外の場面で不具合が生じる可能性がありますので，この場面ではnoを選択し，インストール終了後に$HOME/.bash_aliasesを作成して，
 
 ```
-alias python=$HOME/Miniconda3/bin/python3
-alias conda=$HOME/Miniconda3/bin/conda
-alias jupyter=$HOME/Miniconda3/bin/jupyter
+alias python=$HOME/miniconda3/bin/python3
+alias conda=$HOME/miniconda3/bin/conda
+alias jupyter=$HOME/miniconda3/bin/jupyter
 ```
 
 と記述して，$HOME/.bash_profileや$HOME/.bashrcと同様に
@@ -62,6 +62,8 @@ $ source ~/.bash_aliases
 ```
 
 とすることをお勧めします。
+
+※ Windows版のMinicondaでは，フォルダ名のmが大文字のMとなっているなど，ディレクトリのパスがOSにより異なる場合があります。ご注意ください。
 
 ## ライブラリのインストール方法
 

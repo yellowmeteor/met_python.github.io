@@ -31,7 +31,8 @@ Windowsの設定のホーム画面は次のようになっています。
 ## WSLの導入
 
 WSLは現在，Microsoft Storeから導入することができます。  
-Ubuntu18.04を使用する場合は，埼玉大学の後藤先生のページを参考にして進めていってください。
+Ubuntu18.04を使用する場合は，埼玉大学の後藤先生のページを参考にして進めていってください。  
+※gnome-terminalは不要です。
 
 [Ubuntu 18.04のWSL上へのインストールと初期設定](http://www.aise.ics.saitama-u.ac.jp/~gotoh/HowToInstallUbuntu1804OnWSL.html)
 
